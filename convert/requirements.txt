@@ -1,0 +1,5 @@
+torch>=2.1.0
+torchvision>=0.16.0
+coremltools>=8.0
+numpy
+transformers>=4.40.0   # только для варианта convert_hf.py (Hugging Face)
